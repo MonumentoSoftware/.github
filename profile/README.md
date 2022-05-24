@@ -1,12 +1,7 @@
-## Hi there 👋
+![BeloDlis logo](https://github.com/MonumentoSoftware/BeloDlis/blob/be5137b84724f17a9d98aadcefdf338c4dce1204/logo.png)
 
-<!--
+## BeloDlis beta 
+Check out our library to deal with .dlis files with ease.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Easy acess to the dataframes, and all the data that those file have.
+Export to .json, .excell, .csv and more....
