@@ -2,6 +2,7 @@
 
 ## BeloDlis beta 
 Check out our library to deal with .dlis files with ease.
+Contact us for cloud license.
 
 Easy acess to the dataframes, and all the data that those file have.
 Export to .json, .excell, .csv and more....
